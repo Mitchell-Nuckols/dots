@@ -1,0 +1,14 @@
+rofi.terminal: termite
+rofi.font: Undefined Medium 14
+rofi.bw: 2
+rofi.padding: 2
+rofi.width: 640
+rofi.lines: 8
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.run-shell-command: {terminal} -e {cmd}
+
+rofi.color-normal:                   #000000,#c5c8c6,#000000,#de935f,#282a2e
+rofi.color-urgent:                   #a54242,#282a2e,#81a2be,#f0c674,#282a2e
+rofi.color-active:                   #81a2be,#282a2e,#81a2be,#f0c674,#282a2e
+rofi.color-window:                   #000000,#de935f
