@@ -1,0 +1,3 @@
+#!/bin/bash
+
+reflector --country US --protocol https --sort rate --save /etc/pacman.d/mirrorlist

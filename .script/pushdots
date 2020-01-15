@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [[ -n $1  ]]; then
+	cd ~
+	git add .
+	git commit -m "$1"
+	git push -u origin master
+else
+	echo "Please specify a commit message"
+fi
