@@ -186,3 +186,6 @@ bindsym $mod+o exec ~/.config/rofi/launch.sh window &
 
 # Bind Ranger
 bindsym $mod+i exec termite -e ranger
+
+# Startup programs
+# exec --no-startup-id ~/.script/setworkspaces

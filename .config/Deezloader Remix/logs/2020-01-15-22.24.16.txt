@@ -1,0 +1,274 @@
+linux - Linux 5.4.11-arch1-1 x64
+
+[Info] Can't find authCredentials.json, creating one now!
+[Info] Server is running @ localhost:1730
+[Info] Connection received!
+[Info] Settings updated
+[Info] Connection received!
+[Info] Checking for country
+[Info] Connection language set to: en
+[Info] Not logged in
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Checking for country
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Loading Personal Playlists
+[Info] Loaded 0 Playlist
+[Info] Settings updated
+[Info] Settings updated
+[Info] Added to Queue 143172412
+[Info] Registered track: 143172412:3 | Khalid - Saved
+[Info] [Khalid - Saved] Getting album info
+[Info] [Khalid - Saved] Getting total disc number
+[Info] [Khalid - Saved] Getting BPM
+[Info] [Khalid - Saved] Downloading file to /mnt/shared/Music/Khalid/Khalid - American Teen/Khalid - Saved.mp3
+[Info] [Khalid - Saved] Cover downloaded!
+[Info] [Khalid - Saved] Local Cover downloaded!
+[Info] [Khalid - Saved] Starting the download process
+[Info] [Khalid - Saved] Downloaded
+[Info] Settings updated
+[Info] Added to Queue 690610892
+[Info] Registered track: 690610892:3 | Lil Tecca - Ransom
+[Info] [Lil Tecca - Ransom] Getting album info
+[Info] [Lil Tecca - Ransom] Getting total disc number
+[Info] [Lil Tecca - Ransom] Getting BPM
+[Info] [Lil Tecca - Ransom] Downloading file to /mnt/shared/Music/Lil Tecca/Lil Tecca - Ransom/Lil Tecca - Ransom.mp3
+[Info] [Lil Tecca - Ransom] Cover downloaded!
+[Info] [Lil Tecca - Ransom] Starting the download process
+[Info] [Lil Tecca - Ransom] Downloaded
+[Info] Added to Queue 139826929
+[Info] Added to Queue 139826933
+[Info] Registered track: 139826929:3 | TEMPOREX - Nice Boys
+[Info] [TEMPOREX - Nice Boys] Getting album info
+[Info] [TEMPOREX - Nice Boys] Getting total disc number
+[Info] [TEMPOREX - Nice Boys] Getting BPM
+[Info] [TEMPOREX - Nice Boys] Downloading file to /mnt/shared/Music/TEMPOREX/TEMPOREX - Care/TEMPOREX - Nice Boys.mp3
+[Info] [TEMPOREX - Nice Boys] Cover downloaded!
+[Info] [TEMPOREX - Nice Boys] Starting the download process
+[Info] [TEMPOREX - Nice Boys] Downloaded
+[Info] Registered track: 139826933:3 | TEMPOREX - Daydream
+[Info] [TEMPOREX - Daydream] Getting album info
+[Info] [TEMPOREX - Daydream] Getting total disc number
+[Info] [TEMPOREX - Daydream] Getting BPM
+[Info] [TEMPOREX - Daydream] Downloading file to /mnt/shared/Music/TEMPOREX/TEMPOREX - Care/TEMPOREX - Daydream.mp3
+[Info] [TEMPOREX - Daydream] Cover already downloaded
+[Info] [TEMPOREX - Daydream] Starting the download process
+[Info] [TEMPOREX - Daydream] Downloaded
+[Info] Added to Queue 71384865
+[Info] Registered track: 71384865:3 | salvia palth - i was all over her
+[Info] [salvia palth - i was all over her] Getting album info
+[Info] [salvia palth - i was all over her] Getting total disc number
+[Info] [salvia palth - i was all over her] Getting BPM
+[Info] [salvia palth - i was all over her] Downloading file to /mnt/shared/Music/salvia palth/salvia palth - melanchole/salvia palth - i was all over her.mp3
+[Info] [salvia palth - i was all over her] Cover downloaded!
+[Info] [salvia palth - i was all over her] Starting the download process
+[Info] [salvia palth - i was all over her] Downloaded
+[Info] Settings updated
+[Info] Added to Queue 71384865
+[Info] Registered track: 71384865:9 | salvia palth - i was all over her
+[Info] [salvia palth - i was all over her] Getting album info
+[Info] [salvia palth - i was all over her] Getting total disc number
+[Info] [salvia palth - i was all over her] Getting BPM
+[Info] [salvia palth - i was all over her] Downloading file to /mnt/shared/Music/salvia palth/salvia palth - melanchole/salvia palth - i was all over her.flac
+[Info] [salvia palth - i was all over her] Cover already downloaded
+[Info] [salvia palth - i was all over her] Starting the download process
+[Info] [salvia palth - i was all over her] Downloaded
+[Info] Added to Queue 690610892
+[Info] Registered track: 690610892:9 | Lil Tecca - Ransom
+[Info] [Lil Tecca - Ransom] Getting album info
+[Info] [Lil Tecca - Ransom] Getting total disc number
+[Info] [Lil Tecca - Ransom] Getting BPM
+[Info] [Lil Tecca - Ransom] Downloading file to /mnt/shared/Music/Lil Tecca/Lil Tecca - Ransom/Lil Tecca - Ransom.flac
+[Info] [Lil Tecca - Ransom] Cover already downloaded
+[Info] [Lil Tecca - Ransom] Starting the download process
+[Info] [Lil Tecca - Ransom] Downloaded
+[Info] Added to Queue 139826929
+[Info] Added to Queue 139826933
+[Info] Registered track: 139826933:9 | TEMPOREX - Daydream
+[Info] [TEMPOREX - Daydream] Getting album info
+[Info] [TEMPOREX - Daydream] Getting total disc number
+[Info] [TEMPOREX - Daydream] Getting BPM
+[Info] [TEMPOREX - Daydream] Downloading file to /mnt/shared/Music/TEMPOREX/TEMPOREX - Care/TEMPOREX - Daydream.flac
+[Info] [TEMPOREX - Daydream] Cover already downloaded
+[Info] [TEMPOREX - Daydream] Starting the download process
+[Info] [TEMPOREX - Daydream] Downloaded
+[Info] Registered track: 139826929:9 | TEMPOREX - Nice Boys
+[Info] [TEMPOREX - Nice Boys] Getting album info
+[Info] [TEMPOREX - Nice Boys] Getting total disc number
+[Info] [TEMPOREX - Nice Boys] Getting BPM
+[Info] [TEMPOREX - Nice Boys] Downloading file to /mnt/shared/Music/TEMPOREX/TEMPOREX - Care/TEMPOREX - Nice Boys.flac
+[Info] [TEMPOREX - Nice Boys] Cover already downloaded
+[Info] [TEMPOREX - Nice Boys] Starting the download process
+[Info] [TEMPOREX - Nice Boys] Downloaded
+[Info] Added to Queue 143172412
+[Info] Registered track: 143172412:9 | Khalid - Saved
+[Info] [Khalid - Saved] Getting album info
+[Info] [Khalid - Saved] Getting total disc number
+[Info] [Khalid - Saved] Getting BPM
+[Info] [Khalid - Saved] Downloading file to /mnt/shared/Music/Khalid/Khalid - American Teen/Khalid - Saved.flac
+[Info] [Khalid - Saved] Cover already downloaded
+[Info] [Khalid - Saved] Starting the download process
+[Info] [Khalid - Saved] Downloaded
+[Info] Added to Queue 539850772
+[Info] Registered track: 539850772:9 | Aminé - REEL IT IN
+[Info] [Aminé - REEL IT IN] Getting album info
+[Info] [Aminé - REEL IT IN] Getting total disc number
+[Info] [Aminé - REEL IT IN] Getting BPM
+[Info] [Aminé - REEL IT IN] Downloading file to /mnt/shared/Music/Aminé/Aminé - ONEPOINTFIVE/Aminé - REEL IT IN.flac
+[Info] [Aminé - REEL IT IN] Cover downloaded!
+[Info] [Aminé - REEL IT IN] Starting the download process
+[Info] [Aminé - REEL IT IN] Downloaded
+[Info] Added to Queue 721596242
+[Info] Added to Queue 721596262
+[Info] Registered track: 721596242:9 | Oliver Tree - Alien Boy
+[Info] [Oliver Tree - Alien Boy] Getting album info
+[Info] [Oliver Tree - Alien Boy] Getting total disc number
+[Info] [Oliver Tree - Alien Boy] Getting BPM
+[Info] [Oliver Tree - Alien Boy] Downloading file to /mnt/shared/Music/Oliver Tree/Oliver Tree - Do You Feel Me_/Oliver Tree - Alien Boy.flac
+[Info] [Oliver Tree - Alien Boy] Cover downloaded!
+[Info] [Oliver Tree - Alien Boy] Starting the download process
+[Info] [Oliver Tree - Alien Boy] Downloaded
+[Info] Registered track: 721596262:9 | Oliver Tree - Hurt
+[Info] [Oliver Tree - Hurt] Getting album info
+[Info] [Oliver Tree - Hurt] Getting total disc number
+[Info] [Oliver Tree - Hurt] Getting BPM
+[Info] [Oliver Tree - Hurt] Downloading file to /mnt/shared/Music/Oliver Tree/Oliver Tree - Do You Feel Me_/Oliver Tree - Hurt.flac
+[Info] [Oliver Tree - Hurt] Cover already downloaded
+[Info] [Oliver Tree - Hurt] Starting the download process
+[Info] [Oliver Tree - Hurt] Downloaded
+[Info] Added to Queue 383688031
+[Info] Registered track: 383688031:9 | Oliver Tree - Cheapskate
+[Info] [Oliver Tree - Cheapskate] Getting album info
+[Info] [Oliver Tree - Cheapskate] Getting total disc number
+[Info] [Oliver Tree - Cheapskate] Getting BPM
+[Info] [Oliver Tree - Cheapskate] Downloading file to /mnt/shared/Music/Oliver Tree/Oliver Tree - Cheapskate/Oliver Tree - Cheapskate.flac
+[Info] [Oliver Tree - Cheapskate] Cover downloaded!
+[Info] [Oliver Tree - Cheapskate] Starting the download process
+[Info] [Oliver Tree - Cheapskate] Downloaded
+[Info] Added to Queue 741757112
+[Info] Added to Queue 741757242
+[Info] Registered track: 741757112:9 | Lil Tecca - Ransom
+[Info] [Lil Tecca - Ransom] Getting album info
+[Info] [Lil Tecca - Ransom] Getting total disc number
+[Info] [Lil Tecca - Ransom] Getting BPM
+[Info] [Lil Tecca - Ransom] Downloading file to /mnt/shared/Music/Lil Tecca/Lil Tecca - We Love You Tecca/Lil Tecca - Ransom.flac
+[Info] [Lil Tecca - Ransom] Cover downloaded!
+[Info] [Lil Tecca - Ransom] Starting the download process
+[Info] [Lil Tecca - Ransom] Downloaded
+[Info] Registered track: 741757242:9 | Lil Tecca - The Score
+[Info] [Lil Tecca - The Score] Getting album info
+[Info] [Lil Tecca - The Score] Getting total disc number
+[Info] [Lil Tecca - The Score] Getting BPM
+[Info] [Lil Tecca - The Score] Downloading file to /mnt/shared/Music/Lil Tecca/Lil Tecca - We Love You Tecca/Lil Tecca - The Score.flac
+[Info] [Lil Tecca - The Score] Cover already downloaded
+[Info] [Lil Tecca - The Score] Starting the download process
+[Info] [Lil Tecca - The Score] Downloaded
+[Info] Added to Queue 772124082
+[Info] Registered track: 772124082:9 | Dayglow - Hot Rod
+[Info] [Dayglow - Hot Rod] Getting album info
+[Info] [Dayglow - Hot Rod] Getting total disc number
+[Info] [Dayglow - Hot Rod] Getting BPM
+[Info] [Dayglow - Hot Rod] Downloading file to /mnt/shared/Music/Dayglow/Dayglow - Fuzzybrain/Dayglow - Hot Rod.flac
+[Info] [Dayglow - Hot Rod] Cover downloaded!
+[Info] [Dayglow - Hot Rod] Starting the download process
+[Info] [Dayglow - Hot Rod] Downloaded
+[Info] Added to Queue 767583072
+[Info] Registered track: 767583072:9 | Travis Scott - HIGHEST IN THE ROOM
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Getting album info
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Getting total disc number
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Getting BPM
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Downloading file to /mnt/shared/Music/Travis Scott/Travis Scott - HIGHEST IN THE ROOM/Travis Scott - HIGHEST IN THE ROOM.flac
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Cover downloaded!
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Starting the download process
+[Info] [Travis Scott - HIGHEST IN THE ROOM] Downloaded
+[Info] Added to Queue 541231482
+[Info] Registered track: 541231482:9 | Jack Harlow - SUNDOWN
+[Info] [Jack Harlow - SUNDOWN] Getting album info
+[Info] [Jack Harlow - SUNDOWN] Getting total disc number
+[Info] [Jack Harlow - SUNDOWN] Getting BPM
+[Info] [Jack Harlow - SUNDOWN] Downloading file to /mnt/shared/Music/Jack Harlow/Jack Harlow - Loose/Jack Harlow - SUNDOWN.flac
+[Info] [Jack Harlow - SUNDOWN] Cover downloaded!
+[Info] [Jack Harlow - SUNDOWN] Starting the download process
+[Info] [Jack Harlow - SUNDOWN] Downloaded
+[Info] Added to Queue 432400592
+[Info] Registered track: 432400592:9 | Roy Blair - Thunder
+[Info] [Roy Blair - Thunder] Getting album info
+[Info] [Roy Blair - Thunder] Getting total disc number
+[Info] [Roy Blair - Thunder] Getting BPM
+[Info] [Roy Blair - Thunder] Downloading file to /mnt/shared/Music/Roy Blair/Roy Blair - Cat Heaven/Roy Blair - Thunder.flac
+[Info] [Roy Blair - Thunder] Cover downloaded!
+[Info] [Roy Blair - Thunder] Starting the download process
+[Info] [Roy Blair - Thunder] Downloaded
+[Info] Added to Queue 430280702
+[Info] Registered track: 430280702:9 | Terror Reid & Getter - Dead to Me
+[Info] [Terror Reid & Getter - Dead to Me] Getting album info
+[Info] [Terror Reid & Getter - Dead to Me] Getting total disc number
+[Info] [Terror Reid & Getter - Dead to Me] Getting BPM
+[Info] [Terror Reid & Getter - Dead to Me] Downloading file to /mnt/shared/Music/Terror Reid & Getter/Terror Reid & Getter - Dead to Me/Terror Reid & Getter - Dead to Me.flac
+[Info] [Terror Reid & Getter - Dead to Me] Cover downloaded!
+[Info] [Terror Reid & Getter - Dead to Me] Starting the download process
+[Info] [Terror Reid & Getter - Dead to Me] Downloaded
+[Info] Added to Queue 65434762
+[Info] Registered album: 65434762:9 | KIDS SEE GHOSTS - KIDS SEE GHOSTS
+[Info] Now downloading: KIDS SEE GHOSTS - Feel The Love
+[Info] [KIDS SEE GHOSTS - Feel The Love] Getting BPM
+[Info] Now downloading: KIDS SEE GHOSTS - Fire
+[Info] [KIDS SEE GHOSTS - Fire] Getting BPM
+[Info] Now downloading: KIDS SEE GHOSTS - 4th Dimension
+[Info] [KIDS SEE GHOSTS - 4th Dimension] Getting BPM
+[Info] [KIDS SEE GHOSTS - Feel The Love] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/01 - Feel The Love.flac
+[Info] [KIDS SEE GHOSTS - Fire] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/02 - Fire.flac
+[Info] [KIDS SEE GHOSTS - 4th Dimension] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/03 - 4th Dimension.flac
+[Info] [KIDS SEE GHOSTS - 4th Dimension] Cover downloaded!
+[Info] [KIDS SEE GHOSTS - Feel The Love] Cover downloaded!
+[Info] [KIDS SEE GHOSTS - Fire] Cover downloaded!
+[Info] [KIDS SEE GHOSTS - 4th Dimension] Starting the download process
+[Info] [KIDS SEE GHOSTS - Fire] Starting the download process
+[Info] [KIDS SEE GHOSTS - Feel The Love] Starting the download process
+[Info] [KIDS SEE GHOSTS - Fire] Downloaded
+[Info] Now downloading: KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)
+[Info] [KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)] Getting BPM
+[Info] [KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/04 - Freeee (Ghost Town Pt. 2).flac
+[Info] [KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)] Cover already downloaded
+[Info] [KIDS SEE GHOSTS - Feel The Love] Downloaded
+[Info] Now downloading: KIDS SEE GHOSTS - Reborn
+[Info] [KIDS SEE GHOSTS - Reborn] Getting BPM
+[Info] [KIDS SEE GHOSTS - 4th Dimension] Downloaded
+[Info] Now downloading: KIDS SEE GHOSTS - Kids See Ghosts
+[Info] [KIDS SEE GHOSTS - Kids See Ghosts] Getting BPM
+[Info] [KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)] Starting the download process
+[Info] [KIDS SEE GHOSTS - Kids See Ghosts] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/06 - Kids See Ghosts.flac
+[Info] [KIDS SEE GHOSTS - Kids See Ghosts] Cover already downloaded
+[Info] [KIDS SEE GHOSTS - Reborn] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/05 - Reborn.flac
+[Info] [KIDS SEE GHOSTS - Reborn] Cover already downloaded
+[Info] [KIDS SEE GHOSTS - Kids See Ghosts] Starting the download process
+[Info] [KIDS SEE GHOSTS - Reborn] Starting the download process
+[Info] [KIDS SEE GHOSTS - Kids See Ghosts] Downloaded
+[Info] Now downloading: KIDS SEE GHOSTS - Cudi Montage
+[Info] [KIDS SEE GHOSTS - Cudi Montage] Getting BPM
+[Info] [KIDS SEE GHOSTS - Cudi Montage] Downloading file to /mnt/shared/Music/KIDS SEE GHOSTS/KIDS SEE GHOSTS - KIDS SEE GHOSTS/07 - Cudi Montage.flac
+[Info] [KIDS SEE GHOSTS - Cudi Montage] Cover already downloaded
+[Info] [KIDS SEE GHOSTS - Cudi Montage] Starting the download process
+[Info] [KIDS SEE GHOSTS - Freeee (Ghost Town Pt. 2)] Downloaded
+[Info] [KIDS SEE GHOSTS - Reborn] Downloaded
+[Info] [KIDS SEE GHOSTS - Cudi Montage] Downloaded
+[Info] Album finished downloading: KIDS SEE GHOSTS
+[Info] Added to Queue 3135556
+[Info] Added to Queue 3135561
+[Info] Registered track: 3135561:9 | Daft Punk - Something About Us
+[Info] [Daft Punk - Something About Us] Getting album info
+[Info] [Daft Punk - Something About Us] Getting total disc number
+[Info] [Daft Punk - Something About Us] Getting BPM
+[Info] [Daft Punk - Something About Us] Downloading file to /mnt/shared/Music/Daft Punk/Daft Punk - Discovery/Daft Punk - Something About Us.flac
+[Info] [Daft Punk - Something About Us] Cover downloaded!
+[Info] [Daft Punk - Something About Us] Starting the download process
+[Info] [Daft Punk - Something About Us] Downloaded
+[Info] Registered track: 3135556:9 | Daft Punk - Harder, Better, Faster, Stronger
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Getting album info
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Getting total disc number
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Getting BPM
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Downloading file to /mnt/shared/Music/Daft Punk/Daft Punk - Discovery/Daft Punk - Harder, Better, Faster, Stronger.flac
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Cover already downloaded
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Starting the download process
+[Info] [Daft Punk - Harder, Better, Faster, Stronger] Downloaded

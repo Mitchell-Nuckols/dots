@@ -1,0 +1,11 @@
+#!/bin/bash
+
+DATE=$(date +"%y-%m-%d-%H-%M")
+
+BACKUP="/tmp/jupiter/europa/15X-backup/arch"
+
+if [[ $1 == "-u" ]]; then
+	BACKUP="$BACKUP-($DATE)"
+fi
+
+rclone -v sync /home "$BACKUP"

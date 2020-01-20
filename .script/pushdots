@@ -2,6 +2,7 @@
 
 if [[ -n $1  ]]; then
 	cd ~
+	paclist
 	git add .
 	git commit -m "$1"
 	git push -u origin master

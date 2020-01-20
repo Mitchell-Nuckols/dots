@@ -1,0 +1,511 @@
+linux - Linux 5.4.11-arch1-1 x64
+
+[Info] Server is running @ localhost:1730
+[Info] Connection received!
+[Info] Connection received!
+[Info] Connection language set to: en
+[Info] Not logged in
+[Info] Checking for country
+[Info] Checking for country
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Added to Queue 123870262
+[Info] Registered album: 123870262:9 | Molchat Doma - Этажи
+[Info] Now downloading: Molchat Doma - На Дне
+[Info] [Molchat Doma - На Дне] Getting BPM
+[Info] Now downloading: Molchat Doma - Танцевать
+[Info] [Molchat Doma - Танцевать] Getting BPM
+[Info] Now downloading: Molchat Doma - Фильмы
+[Info] [Molchat Doma - Фильмы] Getting BPM
+[Info] [Molchat Doma - На Дне] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/01 - На Дне.flac
+[Info] [Molchat Doma - Фильмы] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/03 - Фильмы.flac
+[Info] [Molchat Doma - Танцевать] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/02 - Танцевать.flac
+[Info] [Molchat Doma - Фильмы] Cover downloaded!
+[Info] [Molchat Doma - На Дне] Cover downloaded!
+[Info] [Molchat Doma - Танцевать] Cover downloaded!
+[Info] [Molchat Doma - Фильмы] Starting the download process
+[Info] [Molchat Doma - На Дне] Starting the download process
+[Info] [Molchat Doma - Танцевать] Starting the download process
+[Info] [Molchat Doma - Танцевать] Downloaded
+[Info] Now downloading: Molchat Doma - Волны
+[Info] [Molchat Doma - Волны] Getting BPM
+[Info] [Molchat Doma - Волны] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/04 - Волны.flac
+[Info] [Molchat Doma - Волны] Cover already downloaded
+[Info] [Molchat Doma - Фильмы] Downloaded
+[Info] Now downloading: Molchat Doma - Тоска
+[Info] [Molchat Doma - Тоска] Getting BPM
+[Info] [Molchat Doma - Волны] Starting the download process
+[Info] [Molchat Doma - Тоска] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/05 - Тоска.flac
+[Info] [Molchat Doma - Тоска] Cover already downloaded
+[Info] [Molchat Doma - На Дне] Downloaded
+[Info] Now downloading: Molchat Doma - Прогноз
+[Info] [Molchat Doma - Прогноз] Getting BPM
+[Info] [Molchat Doma - Тоска] Starting the download process
+[Info] [Molchat Doma - Прогноз] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/06 - Прогноз.flac
+[Info] [Molchat Doma - Прогноз] Cover already downloaded
+[Info] [Molchat Doma - Прогноз] Starting the download process
+[Info] [Molchat Doma - Тоска] Downloaded
+[Info] Now downloading: Molchat Doma - Судно (Борис Рижий)
+[Info] [Molchat Doma - Судно (Борис Рижий)] Getting BPM
+[Info] [Molchat Doma - Прогноз] Downloaded
+[Info] Now downloading: Molchat Doma - Коммерсанты
+[Info] [Molchat Doma - Коммерсанты] Getting BPM
+[Info] [Molchat Doma - Судно (Борис Рижий)] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/07 - Судно (Борис Рижий).flac
+[Info] [Molchat Doma - Судно (Борис Рижий)] Cover already downloaded
+[Info] [Molchat Doma - Коммерсанты] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/08 - Коммерсанты.flac
+[Info] [Molchat Doma - Коммерсанты] Cover already downloaded
+[Info] [Molchat Doma - Судно (Борис Рижий)] Starting the download process
+[Info] [Molchat Doma - Коммерсанты] Starting the download process
+[Info] [Molchat Doma - Судно (Борис Рижий)] Downloaded
+[Info] Now downloading: Molchat Doma - Клетка
+[Info] [Molchat Doma - Клетка] Getting BPM
+[Info] [Molchat Doma - Клетка] Downloading file to /mnt/shared/Music/Molchat Doma/Molchat Doma - Этажи/09 - Клетка.flac
+[Info] [Molchat Doma - Клетка] Cover already downloaded
+[Info] [Molchat Doma - Клетка] Starting the download process
+[Info] [Molchat Doma - Коммерсанты] Downloaded
+[Info] [Molchat Doma - Клетка] Downloaded
+[Info] [Molchat Doma - Волны] Downloaded
+[Info] Album finished downloading: Этажи
+[Info] Added to Queue 349922271
+[Info] Registered track: 349922271:9 | Frank Ocean - Self Control
+[Info] [Frank Ocean - Self Control] Getting album info
+[Info] [Frank Ocean - Self Control] Getting total disc number
+[Info] [Frank Ocean - Self Control] Getting BPM
+[Info] [Frank Ocean - Self Control] Downloading file to /mnt/shared/Music/Frank Ocean/Frank Ocean - Blonde/Frank Ocean - Self Control.flac
+[Info] [Frank Ocean - Self Control] Cover downloaded!
+[Info] [Frank Ocean - Self Control] Starting the download process
+[Info] [Frank Ocean - Self Control] Downloaded
+[Info] Added to Queue 796184202
+[Info] Registered track: 796184202:9 | Frank Ocean - In My Room
+[Info] [Frank Ocean - In My Room] Getting album info
+[Info] [Frank Ocean - In My Room] Getting total disc number
+[Info] [Frank Ocean - In My Room] Getting BPM
+[Info] [Frank Ocean - In My Room] Downloading file to /mnt/shared/Music/Frank Ocean/Frank Ocean - In My Room/Frank Ocean - In My Room.flac
+[Info] [Frank Ocean - In My Room] Cover downloaded!
+[Info] [Frank Ocean - In My Room] Starting the download process
+[Info] [Frank Ocean - In My Room] Downloaded
+[Info] Added to Queue 535144152
+[Info] Registered track: 535144152:9 | Gus Dapperton - Miss Glum & the Pursuit of Falling
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Getting album info
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Getting total disc number
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Getting BPM
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Downloading file to /mnt/shared/Music/Gus Dapperton/Gus Dapperton - Yellow and Such/Gus Dapperton - Miss Glum & the Pursuit of Falling.flac
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Cover downloaded!
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Starting the download process
+[Info] [Gus Dapperton - Miss Glum & the Pursuit of Falling] Downloaded
+[Info] Added to Queue 114722052
+[Info] Registered track: 774793682:9 | Still Woozy - Goodie Bag
+[Info] [Still Woozy - Goodie Bag] Getting album info
+[Info] [Still Woozy - Goodie Bag] Getting total disc number
+[Info] [Still Woozy - Goodie Bag] Getting BPM
+[Info] Added to Queue 114722382
+[Info] [Still Woozy - Goodie Bag] Downloading file to /mnt/shared/Music/Still Woozy/Still Woozy - Goodie Bag/Still Woozy - Goodie Bag.flac
+[Info] [Still Woozy - Goodie Bag] Cover downloaded!
+[Info] [Still Woozy - Goodie Bag] Starting the download process
+[Info] Added to Queue 114725652
+[Info] [Still Woozy - Goodie Bag] Downloaded
+[Info] Registered track: 774795612:9 | Still Woozy - Cooks
+[Info] [Still Woozy - Cooks] Getting album info
+[Info] [Still Woozy - Cooks] Getting total disc number
+[Info] [Still Woozy - Cooks] Getting BPM
+[Info] [Still Woozy - Cooks] Downloading file to /mnt/shared/Music/Still Woozy/Still Woozy - Cooks/Still Woozy - Cooks.flac
+[Info] [Still Woozy - Cooks] Cover downloaded!
+[Info] [Still Woozy - Cooks] Starting the download process
+[Info] [Still Woozy - Cooks] Downloaded
+[Info] Registered track: 774813282:9 | Still Woozy - Wolfcat
+[Info] [Still Woozy - Wolfcat] Getting album info
+[Info] [Still Woozy - Wolfcat] Getting total disc number
+[Info] [Still Woozy - Wolfcat] Getting BPM
+[Info] [Still Woozy - Wolfcat] Downloading file to /mnt/shared/Music/Still Woozy/Still Woozy - Wolfcat/Still Woozy - Wolfcat.flac
+[Info] [Still Woozy - Wolfcat] Cover downloaded!
+[Info] [Still Woozy - Wolfcat] Starting the download process
+[Info] [Still Woozy - Wolfcat] Downloaded
+[Info] Added to Queue 86298512
+[Info] Registered track: 627389612:9 | Bonjr - It's Ok, You're Ok
+[Info] [Bonjr - It's Ok, You're Ok] Getting album info
+[Info] [Bonjr - It's Ok, You're Ok] Getting total disc number
+[Info] [Bonjr - It's Ok, You're Ok] Getting BPM
+[Info] [Bonjr - It's Ok, You're Ok] Downloading file to /mnt/shared/Music/Bonjr/Bonjr - It's Ok, You're Ok/Bonjr - It's Ok, You're Ok.flac
+[Info] [Bonjr - It's Ok, You're Ok] Cover downloaded!
+[Info] [Bonjr - It's Ok, You're Ok] Starting the download process
+[Info] [Bonjr - It's Ok, You're Ok] Downloaded
+[Info] Added to Queue 134336150
+[Info] Registered track: 134336150:9 | The Deli - 5:32pm
+[Info] [The Deli - 5:32pm] Getting album info
+[Info] [The Deli - 5:32pm] Getting total disc number
+[Info] [The Deli - 5:32pm] Getting BPM
+[Info] [The Deli - 5:32pm] Downloading file to /mnt/shared/Music/The Deli/The Deli - Vibes 2/The Deli - 5_32pm.flac
+[Info] [The Deli - 5:32pm] Cover downloaded!
+[Info] [The Deli - 5:32pm] Starting the download process
+[Info] [The Deli - 5:32pm] Downloaded
+[Info] Added to Queue 676163842
+[Info] Registered track: 676163842:9 | Yeek - Only in the West
+[Info] [Yeek - Only in the West] Getting album info
+[Info] [Yeek - Only in the West] Getting total disc number
+[Info] [Yeek - Only in the West] Getting BPM
+[Info] [Yeek - Only in the West] Downloading file to /mnt/shared/Music/Yeek/Yeek - Sebastian/Yeek - Only in the West.flac
+[Info] [Yeek - Only in the West] Cover downloaded!
+[Info] [Yeek - Only in the West] Starting the download process
+[Info] [Yeek - Only in the West] Downloaded
+[Info] Added to Queue 638510312
+[Info] Registered track: 638510312:9 | DaBaby - Suge
+[Info] [DaBaby - Suge] Getting album info
+[Info] [DaBaby - Suge] Getting total disc number
+[Info] [DaBaby - Suge] Getting BPM
+[Info] [DaBaby - Suge] Downloading file to /mnt/shared/Music/DaBaby/DaBaby - Baby On Baby/DaBaby - Suge.flac
+[Info] [DaBaby - Suge] Cover downloaded!
+[Info] [DaBaby - Suge] Starting the download process
+[Info] [DaBaby - Suge] Downloaded
+[Info] Added to Queue 102526538
+[Info] Registered track: 102526538:9 | Youth Lagoon - The Knower
+[Info] [Youth Lagoon - The Knower] Getting album info
+[Info] [Youth Lagoon - The Knower] Getting total disc number
+[Info] [Youth Lagoon - The Knower] Getting BPM
+[Info] [Youth Lagoon - The Knower] Downloading file to /mnt/shared/Music/Youth Lagoon/Youth Lagoon - Savage Hills Ballroom/Youth Lagoon - The Knower.flac
+[Info] [Youth Lagoon - The Knower] Cover downloaded!
+[Info] [Youth Lagoon - The Knower] Starting the download process
+[Info] [Youth Lagoon - The Knower] Downloaded
+[Info] Added to Queue 424159412
+[Info] Registered track: 424159412:9 | Yunggoth✰ - Crying (feat. Lil Peep)
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Getting album info
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Getting total disc number
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Getting BPM
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Downloading file to /mnt/shared/Music/Yunggoth✰/Yunggoth✰ - Crying (feat. Lil Peep)/Yunggoth✰ - Crying (feat. Lil Peep).flac
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Cover downloaded!
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Starting the download process
+[Info] [Yunggoth✰ - Crying (feat. Lil Peep)] Downloaded
+[Info] Added to Queue 375250701
+[Info] Registered track: 375250701:9 | Yunggoth✰ - Coke (feat. Lil Peep)
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Getting album info
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Getting total disc number
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Getting BPM
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Downloading file to /mnt/shared/Music/Yunggoth✰/Yunggoth✰ - Coke (feat. Lil Peep)/Yunggoth✰ - Coke (feat. Lil Peep).flac
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Cover downloaded!
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Starting the download process
+[Info] [Yunggoth✰ - Coke (feat. Lil Peep)] Downloaded
+[Info] Added to Queue 691603522
+[Info] Registered track: 691603522:9 | Shamana - Besidju (feat. Joji)
+[Info] [Shamana - Besidju (feat. Joji)] Getting album info
+[Info] [Shamana - Besidju (feat. Joji)] Getting total disc number
+[Info] [Shamana - Besidju (feat. Joji)] Getting BPM
+[Info] [Shamana - Besidju (feat. Joji)] Downloading file to /mnt/shared/Music/Shamana/Shamana - Besidju (feat. Joji)/Shamana; Joji - Besidju (feat. Joji).flac
+[Info] [Shamana - Besidju (feat. Joji)] Cover downloaded!
+[Info] [Shamana - Besidju (feat. Joji)] Starting the download process
+[Info] [Shamana - Besidju (feat. Joji)] Downloaded
+[Info] Added to Queue 459236182
+[Info] Registered track: 459236182:9 | Vancouver Sleep Clinic - Ayahuasca
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Getting album info
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Getting total disc number
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Getting BPM
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Downloading file to /mnt/shared/Music/Vancouver Sleep Clinic/Vancouver Sleep Clinic - Ayahuasca/Vancouver Sleep Clinic - Ayahuasca.flac
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Cover downloaded!
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Starting the download process
+[Info] [Vancouver Sleep Clinic - Ayahuasca] Downloaded
+[Info] Added to Queue 655683102
+[Info] Registered track: 655683102:9 | Lil Happy Lil Sad - Let Me Die
+[Info] [Lil Happy Lil Sad - Let Me Die] Getting album info
+[Info] [Lil Happy Lil Sad - Let Me Die] Getting total disc number
+[Info] [Lil Happy Lil Sad - Let Me Die] Getting BPM
+[Info] [Lil Happy Lil Sad - Let Me Die] Downloading file to /mnt/shared/Music/Lil Happy Lil Sad/Lil Happy Lil Sad - Let Me Die/Lil Happy Lil Sad - Let Me Die.flac
+[Info] [Lil Happy Lil Sad - Let Me Die] Cover downloaded!
+[Info] [Lil Happy Lil Sad - Let Me Die] Starting the download process
+[Info] [Lil Happy Lil Sad - Let Me Die] Downloaded
+[Info] Added to Queue 446000932
+[Info] Registered track: 446000932:9 | Mild High Club - Homage
+[Info] [Mild High Club - Homage] Getting album info
+[Info] [Mild High Club - Homage] Getting total disc number
+[Info] [Mild High Club - Homage] Getting BPM
+[Info] [Mild High Club - Homage] Downloading file to /mnt/shared/Music/Mild High Club/Mild High Club - Skiptracing/Mild High Club - Homage.flac
+[Info] [Mild High Club - Homage] Cover downloaded!
+[Info] [Mild High Club - Homage] Starting the download process
+[Info] [Mild High Club - Homage] Downloaded
+[Info] Added to Queue 127033012
+[Info] Registered album: 127033012:9 | MAC MILLER - Circles
+[Info] Now downloading: MAC MILLER - Circles
+[Info] [MAC MILLER - Circles] Getting BPM
+[Info] Now downloading: MAC MILLER - Complicated
+[Info] [MAC MILLER - Complicated] Getting BPM
+[Info] Now downloading: MAC MILLER - Blue World
+[Info] [MAC MILLER - Blue World] Getting BPM
+[Info] [MAC MILLER - Blue World] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/03 - Blue World.flac
+[Info] [MAC MILLER - Circles] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/01 - Circles.flac
+[Info] [MAC MILLER - Complicated] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/02 - Complicated.flac
+[Info] [MAC MILLER - Blue World] Cover downloaded!
+[Info] [MAC MILLER - Circles] Cover downloaded!
+[Info] [MAC MILLER - Complicated] Cover downloaded!
+[Info] [MAC MILLER - Blue World] Starting the download process
+[Info] [MAC MILLER - Circles] Starting the download process
+[Info] [MAC MILLER - Complicated] Starting the download process
+[Info] [MAC MILLER - Circles] Downloaded
+[Info] Now downloading: MAC MILLER - Good News
+[Info] [MAC MILLER - Good News] Getting BPM
+[Info] [MAC MILLER - Good News] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/04 - Good News.flac
+[Info] [MAC MILLER - Good News] Cover already downloaded
+[Info] [MAC MILLER - Blue World] Downloaded
+[Info] Now downloading: MAC MILLER - I Can See
+[Info] [MAC MILLER - I Can See] Getting BPM
+[Info] [MAC MILLER - Good News] Starting the download process
+[Info] [MAC MILLER - I Can See] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/05 - I Can See.flac
+[Info] [MAC MILLER - I Can See] Cover already downloaded
+[Info] [MAC MILLER - I Can See] Starting the download process
+[Info] [MAC MILLER - Good News] Downloaded
+[Info] Now downloading: MAC MILLER - Everybody
+[Info] [MAC MILLER - Everybody] Getting BPM
+[Info] [MAC MILLER - Everybody] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/06 - Everybody.flac
+[Info] [MAC MILLER - Everybody] Cover already downloaded
+[Info] [MAC MILLER - Complicated] Downloaded
+[Info] Now downloading: MAC MILLER - Woods
+[Info] [MAC MILLER - Woods] Getting BPM
+[Info] [MAC MILLER - Everybody] Starting the download process
+[Info] [MAC MILLER - Woods] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/07 - Woods.flac
+[Info] [MAC MILLER - Woods] Cover already downloaded
+[Info] [MAC MILLER - Woods] Starting the download process
+[Info] [MAC MILLER - Everybody] Downloaded
+[Info] Now downloading: MAC MILLER - Hand Me Downs
+[Info] [MAC MILLER - Hand Me Downs] Getting BPM
+[Info] [MAC MILLER - Hand Me Downs] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/08 - Hand Me Downs.flac
+[Info] [MAC MILLER - Hand Me Downs] Cover already downloaded
+[Info] [MAC MILLER - Hand Me Downs] Starting the download process
+[Info] [MAC MILLER - Hand Me Downs] Downloaded
+[Info] Now downloading: MAC MILLER - That's On Me
+[Info] [MAC MILLER - That's On Me] Getting BPM
+[Info] [MAC MILLER - That's On Me] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/09 - That's On Me.flac
+[Info] [MAC MILLER - That's On Me] Cover already downloaded
+[Info] [MAC MILLER - I Can See] Downloaded
+[Info] Now downloading: MAC MILLER - Hands
+[Info] [MAC MILLER - Hands] Getting BPM
+[Info] [MAC MILLER - That's On Me] Starting the download process
+[Info] [MAC MILLER - Hands] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/10 - Hands.flac
+[Info] [MAC MILLER - Hands] Cover already downloaded
+[Info] [MAC MILLER - Woods] Downloaded
+[Info] Now downloading: MAC MILLER - Surf
+[Info] [MAC MILLER - Surf] Getting BPM
+[Info] [MAC MILLER - Hands] Starting the download process
+[Info] [MAC MILLER - Surf] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/11 - Surf.flac
+[Info] [MAC MILLER - Surf] Cover already downloaded
+[Info] [MAC MILLER - Hands] Downloaded
+[Info] Now downloading: MAC MILLER - Once A Day
+[Info] [MAC MILLER - Once A Day] Getting BPM
+[Info] [MAC MILLER - Surf] Starting the download process
+[Info] [MAC MILLER - Once A Day] Downloading file to /mnt/shared/Music/MAC MILLER/MAC MILLER - Circles/12 - Once A Day.flac
+[Info] [MAC MILLER - Once A Day] Cover already downloaded
+[Info] [MAC MILLER - Once A Day] Starting the download process
+[Info] [MAC MILLER - Once A Day] Downloaded
+[Info] [MAC MILLER - That's On Me] Downloaded
+[Info] [MAC MILLER - Surf] Downloaded
+[Info] Album finished downloading: Circles
+[Info] Added to Queue 116355212
+[Info] Registered album: 116355212:9 | Kanye West - JESUS IS KING
+[Info] Now downloading: Kanye West - Every Hour
+[Info] [Kanye West - Every Hour] Getting BPM
+[Info] Now downloading: Kanye West - Selah
+[Info] [Kanye West - Selah] Getting BPM
+[Info] Now downloading: Kanye West - Follow God
+[Info] [Kanye West - Follow God] Getting BPM
+[Info] [Kanye West - Every Hour] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/01 - Every Hour.flac
+[Info] [Kanye West - Selah] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/02 - Selah.flac
+[Info] [Kanye West - Follow God] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/03 - Follow God.flac
+[Info] [Kanye West - Every Hour] Cover downloaded!
+[Info] [Kanye West - Selah] Cover downloaded!
+[Info] [Kanye West - Follow God] Cover downloaded!
+[Info] [Kanye West - Selah] Starting the download process
+[Info] [Kanye West - Follow God] Starting the download process
+[Info] [Kanye West - Every Hour] Starting the download process
+[Info] [Kanye West - Follow God] Downloaded
+[Info] Now downloading: Kanye West - Closed On Sunday
+[Info] [Kanye West - Closed On Sunday] Getting BPM
+[Info] [Kanye West - Closed On Sunday] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/04 - Closed On Sunday.flac
+[Info] [Kanye West - Closed On Sunday] Cover already downloaded
+[Info] [Kanye West - Closed On Sunday] Starting the download process
+[Info] [Kanye West - Every Hour] Downloaded
+[Info] Now downloading: Kanye West - On God
+[Info] [Kanye West - On God] Getting BPM
+[Info] [Kanye West - Selah] Downloaded
+[Info] Now downloading: Kanye West - Everything We Need
+[Info] [Kanye West - Everything We Need] Getting BPM
+[Info] [Kanye West - On God] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/05 - On God.flac
+[Info] [Kanye West - On God] Cover already downloaded
+[Info] [Kanye West - Everything We Need] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/06 - Everything We Need.flac
+[Info] [Kanye West - Everything We Need] Cover already downloaded
+[Info] [Kanye West - On God] Starting the download process
+[Info] [Kanye West - Closed On Sunday] Downloaded
+[Info] Now downloading: Kanye West - Water
+[Info] [Kanye West - Water] Getting BPM
+[Info] [Kanye West - Everything We Need] Starting the download process
+[Info] [Kanye West - Water] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/07 - Water.flac
+[Info] [Kanye West - Water] Cover already downloaded
+[Info] [Kanye West - Water] Starting the download process
+[Info] [Kanye West - On God] Downloaded
+[Info] Now downloading: Kanye West - God Is
+[Info] [Kanye West - God Is] Getting BPM
+[Info] [Kanye West - God Is] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/08 - God Is.flac
+[Info] [Kanye West - God Is] Cover already downloaded
+[Info] [Kanye West - God Is] Starting the download process
+[Info] [Kanye West - Water] Downloaded
+[Info] Now downloading: Kanye West - Hands On
+[Info] [Kanye West - Hands On] Getting BPM
+[Info] [Kanye West - Everything We Need] Downloaded
+[Info] Now downloading: Kanye West - Use This Gospel
+[Info] [Kanye West - Use This Gospel] Getting BPM
+[Info] [Kanye West - Hands On] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/09 - Hands On.flac
+[Info] [Kanye West - Hands On] Cover already downloaded
+[Info] [Kanye West - Use This Gospel] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/10 - Use This Gospel.flac
+[Info] [Kanye West - Use This Gospel] Cover already downloaded
+[Info] [Kanye West - Hands On] Starting the download process
+[Info] [Kanye West - Use This Gospel] Starting the download process
+[Info] [Kanye West - Hands On] Downloaded
+[Info] Now downloading: Kanye West - Jesus Is Lord
+[Info] [Kanye West - Jesus Is Lord] Getting BPM
+[Info] [Kanye West - Use This Gospel] Downloaded
+[Info] [Kanye West - Jesus Is Lord] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - JESUS IS KING/11 - Jesus Is Lord.flac
+[Info] [Kanye West - Jesus Is Lord] Cover already downloaded
+[Info] [Kanye West - Jesus Is Lord] Starting the download process
+[Info] [Kanye West - God Is] Downloaded
+[Info] [Kanye West - Jesus Is Lord] Downloaded
+[Info] Album finished downloading: JESUS IS KING
+[Info] Added to Queue 581609082
+[Info] Added to Queue 581609092
+[Info] Added to Queue 581609102
+[Info] Registered track: 581609102:9 | Kanye West - All Mine
+[Info] [Kanye West - All Mine] Getting album info
+[Info] [Kanye West - All Mine] Getting total disc number
+[Info] [Kanye West - All Mine] Getting BPM
+[Info] [Kanye West - All Mine] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - ye/Kanye West - All Mine.flac
+[Info] [Kanye West - All Mine] Cover downloaded!
+[Info] [Kanye West - All Mine] Starting the download process
+[Info] [Kanye West - All Mine] Downloaded
+[Info] Registered track: 581609082:9 | Kanye West - I Thought About Killing You
+[Info] [Kanye West - I Thought About Killing You] Getting album info
+[Info] [Kanye West - I Thought About Killing You] Getting total disc number
+[Info] [Kanye West - I Thought About Killing You] Getting BPM
+[Info] [Kanye West - I Thought About Killing You] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - ye/Kanye West - I Thought About Killing You.flac
+[Info] [Kanye West - I Thought About Killing You] Cover already downloaded
+[Info] [Kanye West - I Thought About Killing You] Starting the download process
+[Info] [Kanye West - I Thought About Killing You] Downloaded
+[Info] Registered track: 581609092:9 | Kanye West - Yikes
+[Info] [Kanye West - Yikes] Getting album info
+[Info] [Kanye West - Yikes] Getting total disc number
+[Info] [Kanye West - Yikes] Getting BPM
+[Info] [Kanye West - Yikes] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - ye/Kanye West - Yikes.flac
+[Info] [Kanye West - Yikes] Cover already downloaded
+[Info] [Kanye West - Yikes] Starting the download process
+[Info] [Kanye West - Yikes] Downloaded
+[Info] Added to Queue 126772729
+[Info] Added to Queue 126772731
+[Info] Added to Queue 126772733
+[Info] Added to Queue 126772739
+[Info] Added to Queue 126772745
+[Info] Added to Queue 126772749
+[Info] Added to Queue 126772751
+[Info] Added to Queue 126772755
+[Info] Added to Queue 126772759
+[Info] Added to Queue 126772761
+[Info] Added to Queue 126772765
+[Info] Added to Queue 126772767
+[Info] Registered track: 126772729:9 | Kanye West - Ultralight Beam
+[Info] [Kanye West - Ultralight Beam] Getting album info
+[Info] [Kanye West - Ultralight Beam] Getting total disc number
+[Info] [Kanye West - Ultralight Beam] Getting BPM
+[Info] [Kanye West - Ultralight Beam] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Ultralight Beam.flac
+[Info] [Kanye West - Ultralight Beam] Cover downloaded!
+[Info] [Kanye West - Ultralight Beam] Starting the download process
+[Info] [Kanye West - Ultralight Beam] Downloaded
+[Info] Registered track: 126772739:9 | Kanye West - Low Lights
+[Info] [Kanye West - Low Lights] Getting album info
+[Info] [Kanye West - Low Lights] Getting total disc number
+[Info] [Kanye West - Low Lights] Getting BPM
+[Info] [Kanye West - Low Lights] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Low Lights.flac
+[Info] [Kanye West - Low Lights] Cover already downloaded
+[Info] [Kanye West - Low Lights] Starting the download process
+[Info] [Kanye West - Low Lights] Downloaded
+[Info] Registered track: 126772745:9 | Kanye West - I Love Kanye
+[Info] [Kanye West - I Love Kanye] Getting album info
+[Info] [Kanye West - I Love Kanye] Getting total disc number
+[Info] [Kanye West - I Love Kanye] Getting BPM
+[Info] [Kanye West - I Love Kanye] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - I Love Kanye.flac
+[Info] [Kanye West - I Love Kanye] Cover already downloaded
+[Info] [Kanye West - I Love Kanye] Starting the download process
+[Info] [Kanye West - I Love Kanye] Downloaded
+[Info] Registered track: 126772733:9 | Kanye West - Pt. 2
+[Info] [Kanye West - Pt. 2] Getting album info
+[Info] [Kanye West - Pt. 2] Getting total disc number
+[Info] [Kanye West - Pt. 2] Getting BPM
+[Info] [Kanye West - Pt. 2] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Pt. 2.flac
+[Info] [Kanye West - Pt. 2] Cover already downloaded
+[Info] [Kanye West - Pt. 2] Starting the download process
+[Info] [Kanye West - Pt. 2] Downloaded
+[Info] Registered track: 126772751:9 | Kanye West - Real Friends
+[Info] [Kanye West - Real Friends] Getting album info
+[Info] [Kanye West - Real Friends] Getting total disc number
+[Info] [Kanye West - Real Friends] Getting BPM
+[Info] [Kanye West - Real Friends] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Real Friends.flac
+[Info] [Kanye West - Real Friends] Cover already downloaded
+[Info] [Kanye West - Real Friends] Starting the download process
+[Info] [Kanye West - Real Friends] Downloaded
+[Info] Registered track: 126772731:9 | Kanye West - Father Stretch My Hands Pt. 1
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Getting album info
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Getting total disc number
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Getting BPM
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Father Stretch My Hands Pt. 1.flac
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Cover already downloaded
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Starting the download process
+[Info] [Kanye West - Father Stretch My Hands Pt. 1] Downloaded
+[Info] Registered track: 126772749:9 | Kanye West - FML
+[Info] [Kanye West - FML] Getting album info
+[Info] [Kanye West - FML] Getting total disc number
+[Info] [Kanye West - FML] Getting BPM
+[Info] [Kanye West - FML] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - FML.flac
+[Info] [Kanye West - FML] Cover already downloaded
+[Info] [Kanye West - FML] Starting the download process
+[Info] [Kanye West - FML] Downloaded
+[Info] Registered track: 126772767:9 | Kanye West - Saint Pablo
+[Info] [Kanye West - Saint Pablo] Getting album info
+[Info] [Kanye West - Saint Pablo] Getting total disc number
+[Info] [Kanye West - Saint Pablo] Getting BPM
+[Info] [Kanye West - Saint Pablo] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Saint Pablo.flac
+[Info] [Kanye West - Saint Pablo] Cover already downloaded
+[Info] [Kanye West - Saint Pablo] Starting the download process
+[Info] [Kanye West - Saint Pablo] Downloaded
+[Info] Registered track: 126772761:9 | Kanye West - No More Parties In LA
+[Info] [Kanye West - No More Parties In LA] Getting album info
+[Info] [Kanye West - No More Parties In LA] Getting total disc number
+[Info] [Kanye West - No More Parties In LA] Getting BPM
+[Info] [Kanye West - No More Parties In LA] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - No More Parties In LA.flac
+[Info] [Kanye West - No More Parties In LA] Cover already downloaded
+[Info] [Kanye West - No More Parties In LA] Starting the download process
+[Info] [Kanye West - No More Parties In LA] Downloaded
+[Info] Registered track: 126772759:9 | Kanye West - 30 Hours
+[Info] [Kanye West - 30 Hours] Getting album info
+[Info] [Kanye West - 30 Hours] Getting total disc number
+[Info] [Kanye West - 30 Hours] Getting BPM
+[Info] [Kanye West - 30 Hours] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - 30 Hours.flac
+[Info] [Kanye West - 30 Hours] Cover already downloaded
+[Info] [Kanye West - 30 Hours] Starting the download process
+[Info] [Kanye West - 30 Hours] Downloaded
+[Info] Registered track: 126772755:9 | Kanye West - Frank's Track
+[Info] [Kanye West - Frank's Track] Getting album info
+[Info] [Kanye West - Frank's Track] Getting total disc number
+[Info] [Kanye West - Frank's Track] Getting BPM
+[Info] [Kanye West - Frank's Track] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Frank's Track.flac
+[Info] [Kanye West - Frank's Track] Cover already downloaded
+[Info] [Kanye West - Frank's Track] Starting the download process
+[Info] [Kanye West - Frank's Track] Downloaded
+[Info] Registered track: 126772765:9 | Kanye West - Fade
+[Info] [Kanye West - Fade] Getting album info
+[Info] [Kanye West - Fade] Getting total disc number
+[Info] [Kanye West - Fade] Getting BPM
+[Info] [Kanye West - Fade] Downloading file to /mnt/shared/Music/Kanye West/Kanye West - The Life Of Pablo/Kanye West - Fade.flac
+[Info] [Kanye West - Fade] Cover already downloaded
+[Info] [Kanye West - Fade] Starting the download process
+[Info] [Kanye West - Fade] Downloaded
+[Info] Added to Queue 726706112
+[Info] Registered track: 726706112:9 | Lil Xan - Midnight In Prague
+[Info] [Lil Xan - Midnight In Prague] Getting album info
+[Info] [Lil Xan - Midnight In Prague] Getting total disc number
+[Info] [Lil Xan - Midnight In Prague] Getting BPM
+[Info] [Lil Xan - Midnight In Prague] Downloading file to /mnt/shared/Music/Lil Xan/Lil Xan - Midnight In Prague/Lil Xan - Midnight In Prague.flac
+[Info] [Lil Xan - Midnight In Prague] Cover downloaded!
+[Info] [Lil Xan - Midnight In Prague] Starting the download process
+[Info] [Lil Xan - Midnight In Prague] Downloaded
